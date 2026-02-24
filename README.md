@@ -52,5 +52,3 @@ Melhorar para rodar via Node.js
 Criar versão com input do usuário
 
 Transformar em mini API
-
-Projeto simples, mas muito valioso para base de lógica. E base forte constrói desenvolvedor forte.
